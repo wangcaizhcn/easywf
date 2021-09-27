@@ -10,7 +10,7 @@ import org.springframework.web.filter.CorsFilter;
 
 import com.wangcai.test.ControllerAdviceTestController;
 
-@Import({ControllerAdviceTestController.class})
+//@Import({ControllerAdviceTestController.class})
 @SpringBootApplication
 public class EasywfApplication {
 
